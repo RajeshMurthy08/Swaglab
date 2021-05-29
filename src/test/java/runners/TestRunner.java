@@ -8,7 +8,7 @@ import io.cucumber.junit.CucumberOptions;
 @RunWith(Cucumber.class)
 @CucumberOptions(
 		features={"src/test/resources/features/login.feature"},
-//		tags= {"@BtnFunctionalities"},
+//		tags= {"@Automation"},
 		glue= {"steps"}, 
 //		dryRun= true,
 		monochrome=true, 
