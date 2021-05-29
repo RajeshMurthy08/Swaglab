@@ -1,7 +1,7 @@
 # Swaglabs
 
 
-## pre-requisite
+## Pre-requisite
 
 java
 
