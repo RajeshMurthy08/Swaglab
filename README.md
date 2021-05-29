@@ -3,7 +3,7 @@
 
 ## Pre-requisite
 
-java
+Java
 
 Appium server
 
